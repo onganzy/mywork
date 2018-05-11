@@ -4,24 +4,6 @@
 			font-family: 'Lato', sans-serif;
       	}
 
-		.sitecolor{
-			height: 50px;
-			width: 50px;
-			background-color: lightblue;
-		}
-		.sitecolor1{
-			background-color: #02b3e4;
-		}
-		.sitecolor2{
-			background-color: #2d3c49;
-		}
-		.sitecolor3{
-			background-color: #7d97ad;
-		}
-		.square p{
-			text-align: center;
-		}
-
 		hr{
 			size: 20px;
 			color: lightblue;
@@ -37,12 +19,7 @@
 			height: 1200px;
 			display: flex;
 		}
-		.cleft{
-			/*width: 20%;*/
-			height: 100%;
-			padding-top: 150px;
-			padding-right: 20px;
-		}
+		
 		.cright{
 			/*width: 80%;*/
 			height: 100%;
