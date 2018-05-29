@@ -1,25 +1,35 @@
- *{        	
+		*{        	
             color: gray;
             font-family: 'Roboto', sans-serif;
 			font-family: 'Lato', sans-serif;
       	}
 
+      	@media  screen and (max-width: 400px) {
+			.cleft{width: 100%;}
+			.cright{width: 100%;}
+			.cright_imghref{width: 100%;}
+			.logoimg{width: 100%;}
+		}   
+
 		hr{
-			size: 20px;
+			border:none;
+			height: 20px;
 			color: lightblue;
 		}
 		
 		a{
 			text-decoration: none;
 		}
-
+		
+		/*
 		.container{
 			margin: 0 auto;
 			width: 960px;
 			height: 1200px;
 			display: flex;
 		}
-		
+		*/
+
 		.cright{
 			/*width: 80%;*/
 			height: 100%;
